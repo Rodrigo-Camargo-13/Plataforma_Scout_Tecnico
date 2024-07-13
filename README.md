@@ -44,3 +44,9 @@ Siga as etapas abaixo para configurar o ambiente local e executar a aplicação:
 - `src/pages`: Páginas principais da aplicação.
 - `src/store`: Configuração do Redux para gerenciamento de estado.
 - `src/utils`: Algoritmos e funções utilitárias.
+
+## Algoritmo para Probabilidades e Scouts
+A plataforma inclui um algoritmo para calcular probabilidades e scouts de cada jogador e dados de jogo do time. O sistema retorna todos os dados do time e suas estatísticas quando o usuário escolhe o time, e faz previsões e cálculos de probabilidades utilizando machine learning e deep learning.
+
+## Licença
+Este projeto está licenciado sob os termos da licença MIT.
